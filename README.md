@@ -66,6 +66,6 @@ Le livrable sera sous la forme d'une Pull Request, de ton fork vers la branche m
 # Front-End Application
 
 * Clone this repo using https://github.com/AlouiOlfa/front-technical-test <YOUR_PROJECT_NAME>
-* Move to the appropriate directory: cd <laFourche>.
+* Move to the appropriate directory: cd <YOUR_PROJECT_NAME>.
 * Run npm run install in order to install dependencies.
 * At this point you can run npm dev to see the example app at http://localhost:3000.
